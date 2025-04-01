@@ -27,8 +27,8 @@ class ScoreMCPClient:
         self.conversation_history = []
         self.tools = []
         self.openai = OpenAI(
-            api_key="sk-yhbOXnMjCl3yuOP80e7dEc0b09734e7284C3E3B03d6dD568",
-            base_url="https://free.v36.cm/v1/"
+            api_key="*",
+            base_url="*"
         )
     
 
